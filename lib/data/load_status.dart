@@ -1,0 +1,6 @@
+enum LoadStatus {
+  LOADING,
+  DONE,
+  RESPONSE_ERROR,
+  NETWORK_ERROR,
+}
